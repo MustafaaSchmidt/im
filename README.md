@@ -83,15 +83,16 @@ Stop
 Screenshot of screen1
 
 ![Readme1](https://github.com/MustafaaSchmidt/im/assets/160750018/522b5a8c-15a7-4a60-9811-00c2282b0fde)
+
+Screen one code continued:
+
 ![Screenshot 2024-06-10 145610](https://github.com/MustafaaSchmidt/im/assets/160750018/f27c0804-3672-4a03-a592-e70e4dbb65ca)
 
-![ReadMe3](https://github.com/MustafaaSchmidt/im/assets/160750018/d99c9c3a-78b5-4f91-b3c3-37fe613b9840)
+code for the second screen
 
 ![Screenshot 2024-06-10 145653](https://github.com/MustafaaSchmidt/im/assets/160750018/f262058a-e4f3-4d1a-bec8-a1e786e7440c)
 
-![Screenshot 2024-06-10 145701](https://github.com/MustafaaSchmidt/im/assets/160750018/3ccc1491-4630-4143-a77a-fd7d1f79eeef)
-
-![Second screen code](https://github.com/MustafaaSchmidt/im/assets/160750018/61a946ae-acd4-4cb1-ac86-1e46517c0aeb)
+code for splashscreen
 
 ![Screenshot 2024-06-10 145735](https://github.com/MustafaaSchmidt/im/assets/160750018/3338a6a7-4715-43ae-8cfd-2a4d3f73857f)
 
