@@ -96,24 +96,21 @@ code for splashscreen
 
 ![Screenshot 2024-06-10 145735](https://github.com/MustafaaSchmidt/im/assets/160750018/3338a6a7-4715-43ae-8cfd-2a4d3f73857f)
 
-
-
+Splashscreen design
 ![Screenshot 2024-06-10 145805](https://github.com/MustafaaSchmidt/im/assets/160750018/58b5d40f-a58a-4610-a220-8292b26a3ebe)
-
-
-![splashscreem](https://github.com/MustafaaSchmidt/im/assets/160750018/a78aa43a-0265-4170-8b8a-1e7eb719d08e)
+Screen1 design
 
 ![Screenshot 2024-06-10 145829](https://github.com/MustafaaSchmidt/im/assets/160750018/73584d3f-944a-4fc4-a941-36d2da0a09b7)
 
-![SecondScreen](https://github.com/MustafaaSchmidt/im/assets/160750018/83b1f2a1-cb0a-4c5a-9471-b9b6c95f6b2d)
-
+Screen2 design
 ![Screenshot 2024-06-10 145901](https://github.com/MustafaaSchmidt/im/assets/160750018/dec6da66-af23-4bc1-9030-d3dd05ff43a8)
 
-![Screenshot 55](https://github.com/MustafaaSchmidt/im/assets/160750018/6312f5de-d96a-4d66-8e18-ca220016bdaa)
+
+the android.eml code1
 
 ![Screenshot 2024-06-10 145949](https://github.com/MustafaaSchmidt/im/assets/160750018/5e8ce07f-365a-4a17-8a5b-6bf00e5902da)
 
-
+the android.eml code2
 
 ![Screenshot 2024-06-10 150013](https://github.com/MustafaaSchmidt/im/assets/160750018/3ab2985f-1fe4-4547-83ad-5a9ae21506f7)
 
