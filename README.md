@@ -4,16 +4,27 @@ Start
 
   Declarations  
       num ArrayOf = 0,0,0,0,0,0,0
+      
       num day1
+      
       num day2
+      
       num day3
+      
       num day4 
+      
       num day5
+      
       num day6
+      
       num day7
+      
       Num TEST = 2 
+      
       Num QUIT = 999 
+      
       num userInput
+      
       Num averageTemp 
 
 Output “Please enter temperature for day1 or”, QUIT, “to exit the program” 
