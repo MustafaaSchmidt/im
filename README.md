@@ -114,11 +114,11 @@ Screenshot of screen1
 
 ![Screenshot 2024-06-10 145949](https://github.com/MustafaaSchmidt/im/assets/160750018/5e8ce07f-365a-4a17-8a5b-6bf00e5902da)
 
-![splashscreen xml](https://github.com/MustafaaSchmidt/im/assets/160750018/317c776e-1de3-4b73-95fe-3c3bab5dafd2)
+
 
 ![Screenshot 2024-06-10 150013](https://github.com/MustafaaSchmidt/im/assets/160750018/3ab2985f-1fe4-4547-83ad-5a9ae21506f7)
 
-![splashscreen2 xml](https://github.com/MustafaaSchmidt/im/assets/160750018/257a5a0e-d9ae-499b-9bd1-13ea5e2adf11)
+
 
 
 
