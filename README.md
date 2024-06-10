@@ -1,4 +1,5 @@
 # Pseudocode for the weather app 
+The IIE, 2024
 
 Start  
 
@@ -72,6 +73,10 @@ Input day1
   Endwhile  
 
 Stop 
+
+Reference List:
+
+The lIE.2024.Introduction To Mobile Application Development [IMAD5112/d/p/w Module Manual]. The Independent Institute of Education:Unpublished.
 
 
            
