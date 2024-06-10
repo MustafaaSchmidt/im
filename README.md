@@ -96,9 +96,7 @@ code for splashscreen
 
 ![Screenshot 2024-06-10 145735](https://github.com/MustafaaSchmidt/im/assets/160750018/3338a6a7-4715-43ae-8cfd-2a4d3f73857f)
 
-![Screenshot 2024-06-10 145740](https://github.com/MustafaaSchmidt/im/assets/160750018/2e3d3772-8f37-4f0c-8b85-c82fce22dc7a)
 
-![splashscreen code](https://github.com/MustafaaSchmidt/im/assets/160750018/a5f39e6f-fb6d-4484-b940-51b9937595a3)
 
 ![Screenshot 2024-06-10 145805](https://github.com/MustafaaSchmidt/im/assets/160750018/58b5d40f-a58a-4610-a220-8292b26a3ebe)
 
