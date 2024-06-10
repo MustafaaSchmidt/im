@@ -13,6 +13,7 @@ Start
       num day7
       Num TEST = 2 
       Num QUIT = 999 
+      num userInput
       Num averageTemp 
 
 Output “Please enter temperature for day1 or”, QUIT, “to exit the program” 
@@ -30,7 +31,8 @@ input day6
 output “Please enter temperature for day7 or”,
 input day7
  AverageTemp = (day1 + day2 + day3 + day4 + day5 + day6 + day7)/7
-
+ while userInput <= 7
+ 
 Output “Average is”,average 
 
 Else 
@@ -44,4 +46,6 @@ Input day1
   Endwhile  
 
 Stop 
+
+
            
